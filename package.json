@@ -1,0 +1,19 @@
+{
+  "name": "l1_t1",
+  "version": "1.0.0",
+  "description": "lesson 1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Borschez/l1_t1.git"
+  },
+  "author": "borschai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Borschez/l1_t1/issues"
+  },
+  "homepage": "https://github.com/Borschez/l1_t1#readme"
+}
